@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+
+# Temporary text
+temp.txt
